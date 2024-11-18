@@ -1,6 +1,7 @@
 name: translated_text
 description: "A widget for translating text using GoogleTranslator"
 version: 1.0.0
+homepage: https://github.com/gabrielpacheco23/translated_text
 
 environment:
   sdk: ^3.5.3
