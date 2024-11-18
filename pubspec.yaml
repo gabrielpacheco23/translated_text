@@ -1,4 +1,4 @@
-name: translated_text
+name: flutter_translated_text
 description: "A widget for translating text using GoogleTranslator"
 version: 1.0.0
 homepage: https://github.com/gabrielpacheco23/translated_text
@@ -10,15 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
-
-  cupertino_icons: ^1.0.8
-  translator: ^1.0.3
+  translator: ^1.0.3+1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
-  flutter_lints: ^4.0.0
 
 flutter:
 
